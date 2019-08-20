@@ -1,0 +1,6 @@
+git+https://github.com/robotframework/robotframework.git@newparser-squashed
+pygls
+flake8
+twine
+wheel
+-r requirements.txt
